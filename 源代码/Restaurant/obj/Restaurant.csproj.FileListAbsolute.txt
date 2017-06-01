@@ -1,0 +1,8 @@
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+F:\数据库教材\第9章\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+F:\数据库教材\第9章\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\ResolveAssemblyReference.cache
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\Restaurant.Main.resources
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+F:\数据库教材\第9章\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache

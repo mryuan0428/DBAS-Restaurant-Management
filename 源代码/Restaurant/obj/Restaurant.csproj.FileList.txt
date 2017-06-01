@@ -1,0 +1,15 @@
+bin\Debug\Restaurant.exe
+bin\Debug\Restaurant.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Restaurant.Properties.Resources.resources
+obj\Debug\Restaurant.csproj.GenerateResource.Cache
+obj\Debug\Restaurant.exe
+obj\Debug\Restaurant.pdb
+obj\Debug\Restaurant.Main.resources
+obj\Debug\Restaurant.Login.resources
+obj\Debug\Restaurant.Start.resources
+obj\Debug\Restaurant.Order.resources
+obj\Debug\Restaurant.Bill.resources
+obj\Debug\Restaurant.UserPwd.resources
+obj\Debug\Restaurant.BackUp.resources
+obj\Debug\Restaurant.Recovery.resources
